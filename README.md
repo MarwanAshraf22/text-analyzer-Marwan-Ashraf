@@ -6,7 +6,7 @@ A simple Python tool for analyzing text files. This project counts words, senten
 
 - **Word Count**: Counts the total number of words in the text
 - **Sentence Count**: Identifies and counts sentences based on punctuation marks (`.`, `!`, `?`)
-- **Top 10 Most Frequent Words**: Displays the 10 most common words and their frequencies
+- **Top 10 Most Frequent Words**: Displays the 10 most common words and their frequencies.
 
 ## Requirements
 
