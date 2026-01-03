@@ -10,7 +10,7 @@ A simple Python tool for analyzing text files. This project counts words, senten
 
 ## Requirements
 
-- Python 3.6 or higher
+- Python 3.8 or higher
 - No external dependencies (uses only Python standard library)
 
 ## Installation
@@ -75,3 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 Marwan Ashraf
+
