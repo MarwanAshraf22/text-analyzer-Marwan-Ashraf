@@ -17,8 +17,8 @@ A simple Python tool for analyzing text files. This project counts words, senten
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd Mentorship
+git clone <https://github.com/MarwanAshraf22/Mentorship-Abdo-Kamar.git>
+cd Mentorship-Abdo-Kamar
 ```
 
 2. No additional installation required - the project uses only Python standard library modules.
